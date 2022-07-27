@@ -6,6 +6,17 @@ Why did you choose to study data?
 
 Data is the future! Data gives us concrete opportunities to take current data and model future opportunities.
 
+
+📍  Seattle, WA
+🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia
+🌎  Passionate about the
+📊  I'm currently working o
+🤘🏼  While I'm waiting for my code to run, you can catch me either
+
+Python  PostgreSQL  HTML  CSS  Git  GitHub  Markdown  Visual Studio Code  Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
+🤝  Let's connect!
+
+
 <!--
 **brandiehatch/brandiehatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
