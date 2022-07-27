@@ -8,8 +8,8 @@ Data is the future! Data gives us concrete opportunities to take current data an
 
 
 📍  Seattle, WA<br>
-🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia<br>
-🌎  Passionate about the<br>
+🎓  Currently: General Assembly <br>
+🌎  Passionate about People, Pets, and the Planet<br>
 📊  I'm currently working o<br>
 🤘🏼  While I'm waiting for my code to run, you can catch me either<br>
 
