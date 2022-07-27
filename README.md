@@ -11,7 +11,7 @@ Data is the future! Data gives us concrete opportunities to take current data an
 📍  Seattle, WA<br>
 🎓  Currently: General Assembly <br>
 🌎  Passionate about People, Pets, and the Planet<br>
-📊  I'm currently working on my capstone project: creating a Tableau Dashboard with US Census data and modeling. <br> -Topic: Gender Gaps in International Education & Labor - Question: As the gender gap in education (literacy) decreases, how does women’s participation in labor change?
+📊  I'm currently working on my capstone project: creating a Tableau Dashboard with US Census data and modeling. <br> -Topic: Gender Gaps in International Education & Labor <br> <tab> - Question: As the gender gap in education (literacy) decreases, how does women’s participation in labor change?
 <br>
 🤘🏼  While I'm waiting for my code to run, you can catch me either<br>
 
