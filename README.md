@@ -7,9 +7,9 @@ Why did you choose to study data?
 Data is the future! Data gives us concrete opportunities to take current data and model future opportunities.
 
 
-📍  Seattle, WA
-🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia
-🌎  Passionate about the
+📍  Seattle, WA<p>
+🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia<p>
+🌎  Passionate about the<p>
 📊  I'm currently working o
 🤘🏼  While I'm waiting for my code to run, you can catch me either
 
