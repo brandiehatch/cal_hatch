@@ -8,13 +8,15 @@ Data is the future! Data gives us concrete opportunities to take current data an
 
 
 📍  Seattle, WA<br>
-🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia<p>
-🌎  Passionate about the<p>
-📊  I'm currently working o
-🤘🏼  While I'm waiting for my code to run, you can catch me either
+🎓  Currently: General Assembly | Alma Mater: University of Missouri - Columbia<br>
+🌎  Passionate about the<br>
+📊  I'm currently working o<br>
+🤘🏼  While I'm waiting for my code to run, you can catch me either<br>
 
 Python  PostgreSQL  HTML  CSS  Git  GitHub  Markdown  Visual Studio Code  Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
-🤝  Let's connect!
+
+
+Let's connect!
 
 
 <!--
