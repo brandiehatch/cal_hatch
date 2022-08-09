@@ -15,6 +15,8 @@ Data is the future! Data gives us concrete opportunities to take current data an
 <br>
 🤘🏼  While I'm waiting for my code to run, you can catch me either<br>
 
+
+
 Python  PostgreSQL  HTML  CSS  Git  GitHub  Markdown  Visual Studio Code  Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
 
 
@@ -26,7 +28,7 @@ Let's connect!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my Capstone project.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
