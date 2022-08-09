@@ -2,7 +2,7 @@
 ## Data Scientist<br>
 Enthusiastic and collaborative designer turned data scientist with extensive experience in adult instruction as a Learning Specialist. My transferable skills of communication, flexibility, patience, and authenticity are brought out when solving people-based problems for technical and non-technical audiences. I'm interested in how data science can solve for better learning opportunities.
 
-Looking for opportunities to merge my many years in Education and my transferable skills with Data Prediction. Currently learning at the General Assembly Data Science Immersive Bootcamp. Open for Data Science, Operations Research Analyst, or Data Analyst full time position
+Looking for opportunities to merge my many years in Education and my transferable skills with Data Prediction. Currently learning at the General Assembly Data Science Immersive Bootcamp. Open for Data Science, Operations Research Analyst, or Data Analyst full time position.
 
 
 📍  Seattle, WA<br>
