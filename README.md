@@ -15,7 +15,7 @@ Looking for opportunities to merge my many years in Education and my transferabl
 🤘🏼  While I'm waiting for my code to run, you can catch me either playing with my dogs or watering my garden.<br>
 🤔 I’m looking for help with running 8 million observations in Kmeans.<br>
 📫 How to reach me: 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="brandiehatch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandiehatch?trk=profile-badge">Brandie Hatch</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="brandiehatch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandiehatch?trk=profile-badge">LinkedIn: Brandie Hatch</a></div>
 
 ### 💻 &nbsp;Tech Stack
 
