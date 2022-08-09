@@ -43,8 +43,6 @@ Data is the future! Data gives us concrete opportunities to take current data an
 ![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=E60000)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
 
-Python  PostgreSQL  HTML  CSS  Git  GitHub  Markdown  Visual Studio Code  Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
-
 
 Let's connect!
 
