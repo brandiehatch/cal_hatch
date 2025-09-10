@@ -1,21 +1,21 @@
-### Brandie Hatch, she/her
+### Cal Hatch (they/them)
 ## Data Scientist<br>
 Enthusiastic and collaborative designer turned data scientist with extensive experience in adult instruction as a Learning Specialist. My transferable skills of communication, flexibility, patience, and authenticity are brought out when solving people-based problems for technical and non-technical audiences. I'm interested in how data science can solve for better learning opportunities.
 
 Looking for opportunities to merge my many years in Education and my transferable skills with Data Prediction. Currently learning at the General Assembly Data Science Immersive Bootcamp. Open for Data Science, Operations Research Analyst, or Data Analyst full time position.
 
 
-📍  Seattle, WA<br>
-😄 Pronouns: She/Her<br>
-🎓  Currently: General Assembly <br>
-🌎  Passionate about People, Pets, and the Planet<br>
+📍  Vancouver, WA<br>
+😄 Pronouns: they/them<br>
+🎓 General Assembly 2022<br>
+🌎 Passionate about People, Pets, and the Planet<br>
 💬 Ask me about dog training<br>
 📊  I'm currently working on my capstone project: creating a Tableau Dashboard with US Census data and modeling. <br> - Topic: Gender Gaps in International Education & Labor <br> <tab> - Question: As the gender gap in education (literacy) decreases, how does women’s participation in labor change?</tab>
 <br>
-🤘🏼  While I'm waiting for my code to run, you can catch me either playing with my dogs or watering my garden.<br>
-🤔 I’m looking for help with running 8 million observations in Kmeans.<br>
+🤘🏼  While I'm waiting for my code to run, you can catch me either playing with my dog or watering my plants.<br>
+🤔 I was looking for help with running 8 million observations in Kmeans.<br>
 📫 How to reach me: 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="brandiehatch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandiehatch?trk=profile-badge">LinkedIn: Brandie Hatch</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="brandiehatch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/brandiehatch?trk=profile-badge">LinkedIn</a></div>
 
 ### 💻 &nbsp;Tech Stack
 
